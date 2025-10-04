@@ -1,6 +1,7 @@
 # hpHeatingPartLoad_Parallel
-"Open-source MATLAB tool for simulating hybrid air-source and ground-source heat pump systems with parallel operation and borehole sizing."
-function HHP_Feb_14
+MATLAB-based Hybrid Heat Pump (HHP) simulation model integrating Air Source Heat Pump (ASHP) and Ground Source Heat Pump (GSHP) operation in parallel configuration. This repository enables analysis of heating demand profiles, load balancing, and performance evaluation using the CARNOT toolbox and Simulink environment. Designed for research and education in energy systems modeling, optimization, and sustainable heating technology.
+
+    function HHP_Feb_14
     %% 0. Program Initialization
     clc; clear;
     
